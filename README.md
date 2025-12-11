@@ -14,7 +14,7 @@
       overflow: hidden;
       box-shadow: 0 0 20px rgba(0, 247, 255, 0.25);
   ">
-      <img src="task_01kc7692sjfzsaf54bzfyjtt8a-1765473159_img_0.webp"
+      <img src="20251211_1139_Íconos de Ciencia de Datos_remix_01kc77t73sf328gvawyq06kzyj.png"
            alt="Data Science Banner"
            style="width:100%; display:block;">
   </div>
