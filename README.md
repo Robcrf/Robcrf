@@ -14,7 +14,7 @@
       overflow: hidden;
       box-shadow: 0 0 20px rgba(0, 247, 255, 0.25);
   ">
-      <img src="20251211_1139_Íconos de Ciencia de Datos_remix_01kc77t73sf328gvawyq06kzyj.png"
+      <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/1721175382687.png"
            alt="Data Science Banner"
            style="width:100%; display:block;">
   </div>
@@ -56,6 +56,8 @@
       <li>NumPy</li>
       <li>Scikit-learn</li>
       <li>Jupyter Notebook</li>
+      <li>Seaborn</li>
+      <li>Matplotlib</li>
   </ul>
 
   <h2 style="color:#42e8f4;">🌍 Languages</h2>
@@ -67,4 +69,3 @@
   <h2 style="color:#42e8f4;">🚀 Always building, improving, and learning.</h2>
 
 </div>
-
