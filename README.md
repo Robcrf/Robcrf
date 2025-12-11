@@ -14,7 +14,7 @@
       overflow: hidden;
       box-shadow: 0 0 20px rgba(0, 247, 255, 0.25);
   ">
-      <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/1721175382687.png"
+      <img src="image.png"
            alt="Data Science Banner"
            style="width:100%; display:block;">
   </div>
