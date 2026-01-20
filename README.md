@@ -58,6 +58,7 @@
       <li>Jupyter Notebook</li>
       <li>Seaborn</li>
       <li>Matplotlib</li>
+      <li>Power BI/DAX</li>
   </ul>
 
   <h2 style="color:#42e8f4;">🌍 Languages</h2>
